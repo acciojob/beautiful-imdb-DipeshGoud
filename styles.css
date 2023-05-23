@@ -1,12 +1,12 @@
 
 /* Your CSS Code here. */
-img{
+.moviePic{
 	height: 300px;
 	width: auto;
 	opacity: 90%;
 }
 
-p{
+.movieDetail{
 	position: relative;
 	top:2;
 	width:100%;
